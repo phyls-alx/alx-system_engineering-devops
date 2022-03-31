@@ -1,1 +1,1 @@
-My first readme on system engineering devops
+shell permission, chmod helps to change directory permission in linux, sudo allows you to run program with the security privilegesof another user, su is used to switch to another user, chown is used to change a files's ownership, directory, or symbolic link for a user or group, chgrp alters the group name that a file or directory belongs to
